@@ -7,7 +7,7 @@ Hello, my name is David Ali. I currently work as a courier. I like to spend my f
 My dream is to become a computer software developer, a professional musician, or - why not both? - a sound engineer.
 
 ## Project ideas
-- Terminal based C++ project manager.
+- Terminal based C++ project assistant.
 - Professional software for musicians who choose to use Linux as their workstation.
 - Online VR community software for musicians.
 - Web based problem solving platform: users can query their requests and offer a price for the solution and at the same time they can browse other requests and solve them for the reward.
